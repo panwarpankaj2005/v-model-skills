@@ -1,0 +1,20 @@
+{
+  "name": "v-model-skills",
+  "description": "Requirements, design-doc (SADD/IDD/SDD), and traceability skills that layer V-model process gates on top of Superpowers",
+  "version": "0.1.0",
+  "author": {
+    "name": "Pankaj Panwar",
+    "email": "pankaj.panwar@stryker.com"
+  },
+  "homepage": "REPLACE_WITH_YOUR_REPO_URL",
+  "repository": "REPLACE_WITH_YOUR_REPO_URL",
+  "license": "MIT",
+  "keywords": [
+    "v-model",
+    "requirements",
+    "architecture",
+    "traceability",
+    "verification",
+    "documentation"
+  ]
+}
